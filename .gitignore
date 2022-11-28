@@ -22,7 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-
+*.iml
 /.idea/
 /target/
 /rpc-framework-simple/target/
@@ -36,7 +36,7 @@ hs_err_pid*
 /rpc-framework-simple/rpc-framework-simple.iml
 /rpc-framework-common/rpc-framework-common.iml
 /hello-service-api/hello-service-api.iml
-
+.idea
 /.settings
 */.settings
 .classpath
