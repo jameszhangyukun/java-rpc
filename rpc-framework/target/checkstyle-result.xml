@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.29">
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/config/RpcServiceConfig.java">
+<file name="/Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/remoting/dto/RpcMessage.java">
+</file>
+<file name="/Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/remoting/dto/RpcRequest.java">
+</file>
+<file name="/Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/remoting/dto/RpcResponse.java">
+</file>
+<file name="/Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/remoting/transport/netty/server/NettyRpcServer.java">
 </file>
 <file name="/Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/config/CustomShutdownHook.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/annotation/RpcScan.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/annotation/RpcReference.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/annotation/RpcService.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/registry/zk/util/CuratorUtils.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/spring/CustomScanner.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/spring/CustomScannerRegistrar.java">
 </file>
 </checkstyle>
