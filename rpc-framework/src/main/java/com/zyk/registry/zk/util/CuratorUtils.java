@@ -49,7 +49,7 @@ public final class CuratorUtils {
         }
     }
 
-    private static List<String> getChildrenNodes(CuratorFramework zkClient, String rpcServiceName) {
+    public static List<String> getChildrenNodes(CuratorFramework zkClient, String rpcServiceName) {
         if (SERVICE_ADDRESS_MAP.containsKey(rpcServiceName)) {
             return SERVICE_ADDRESS_MAP.get(rpcServiceName);
         }
