@@ -1,37 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.29">
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/extension/Holder.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/extension/SPI.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/extension/ExtensionLoader.java">
-</file>
 <file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/util/StringUtil.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/util/PropertiesFileUtil.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/util/concurrent/threadpool/CustomThreadPoolConfig.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/util/concurrent/threadpool/ThreadPoolFactoryUtil.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/util/RuntimeUtil.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/util/CollectionUtil.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/enums/SerializationTypeEnum.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/enums/RpcResponseCodeEnum.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/enums/RpcConfigEnum.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/enums/CompressTypeEnum.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/enums/RpcErrorMessageEnum.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/exception/RpcException.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/exception/SerializeException.java">
-</file>
-<file name="/Users/zhangyukun/development/project/java-rpc/rpc-common/src/main/java/com/zyk/factory/SingletonFactory.java">
 </file>
 </checkstyle>
