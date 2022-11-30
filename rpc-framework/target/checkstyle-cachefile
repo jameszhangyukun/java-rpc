@@ -1,4 +1,4 @@
-#Tue Nov 29 15:30:12 CST 2022
+#Tue Nov 29 15:43:37 CST 2022
 /Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/serialize/kyro/KyroSerializer.java=1669692116183
 /Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/remoting/transport/netty/server/NettyRpcServer.java=1669689065234
 /Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/spring/CustomScanner.java=1669616770533
@@ -10,6 +10,7 @@
 /Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/serialize/Serializer.java=1669691147582
 /Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/registry/zk/ZkServiceDiscoveryImpl.java=1669705867217
 /Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/annotation/RpcScan.java=1669617290309
+/Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/compress/Compress.java=1669707258921
 /Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/loadbalance/loadbalancer/ConsistentHashLoadBalance.java=1669704965544
 /Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/loadbalance/LoadBalance.java=1669703272452
 /Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/registry/ServiceDiscovery.java=1669702759292
@@ -25,4 +26,5 @@ configuration*?=BBEB3AAFEC21955E360BEE272BD75C5302221600
 /Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/annotation/RpcService.java=1669616770542
 /Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/serialize/protostuff/ProtostuffSerializer.java=1669693034786
 /Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/registry/zk/ZkServiceRegistryImpl.java=1669706008246
+/Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/compress/gzip/GzipCompress.java=1669707755787
 /Users/zhangyukun/development/project/java-rpc/rpc-framework/src/main/java/com/zyk/provider/impl/ZkServiceProviderImpl.java=1669706877798
