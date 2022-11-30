@@ -1,0 +1,2 @@
+netty=com.zyk.remoting.transport.netty.client.NettyRpcClient
+socket=com.zyk.remoting.transport.socket.SocketRpcClient
